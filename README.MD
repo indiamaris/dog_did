@@ -19,7 +19,7 @@ npm i
 First thing you need to do is get your Database running:
 
 ```bash
-docker-composer up -d
+docker-compose up -d
 ```
 This command starts the dogdid database and also a dev database that is used by Atlas to manage schema change and migrations.
 

@@ -5,7 +5,7 @@ To run this project locally you need the following software:
 - nodejs
 - [Atlas](https://atlasgo.io/getting-started) (for managing DB schema) 
 - docker
-- docker-composer
+- docker-compose
 
 # Running locally
 
